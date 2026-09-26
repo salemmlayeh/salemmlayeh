@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Salem 👋
 
-<!--
-**salemmlayeh/salemmlayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year **Electrical & Automation Engineering student** at ENIG, Tunisia.
 
-Here are some ideas to get you started:
+I'm interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 Robotics
+* ⚙️ Embedded Systems
+* 🏭 Industrial Automation
+* 🎛️ Control Systems
+
+### 🛠️ Technologies
+
+**C/C++ · Python · MATLAB/Simulink · STM32 · ROS 2 · PLC · TIA Portal · Linux · Git**
+
+I'm currently working on projects related to **robotics, embedded systems, automation, and intelligent control**.
+
+📫 **Email:** [salemmlayeh22@gmail.com](mailto:salemmlayeh22@gmail.com)
+💼 **LinkedIn:** [Salem Amine Mlayeh](https://www.linkedin.com/in/salem-amine-mlayeh/)
