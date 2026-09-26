@@ -4,15 +4,16 @@
 
 I'm interested in:
 
-🤖 Robotics & Autonomous Systems
-🧠 Machine Learning & AI
-💻 Embedded Systems
-🎛️ Control Systems
-🛠️ Technologies
+* 🤖 Robotics & Autonomous Systems
+* 🧠 Machine Learning & AI
+* 💻 Embedded Systems
+* 🎛️ Control Systems
 
-Python · C/C++ · MATLAB/Simulink · STM32 · ROS 2 · OpenCV · scikit-learn · PyTorch · TensorFlow · Git · Linux · TIA Portal
+### 🛠️ Technologies
 
-I'm currently working on projects related to **robotics, embedded systems, automation, and intelligent control**.
+**Python · C/C++ · MATLAB/Simulink · STM32 · ROS 2 · OpenCV · scikit-learn · PyTorch · TensorFlow · Git · Linux · TIA Portal**
 
-📫 **Email:** [salemmlayeh22@gmail.com](mailto:salemmlayeh22@gmail.com)
-💼 **LinkedIn:** [Salem Amine Mlayeh](https://www.linkedin.com/in/salem-amine-mlayeh/)
+I'm interested in building systems that combine **AI, robotics, embedded systems, computer vision, and intelligent control**.
+
+📫 **Email:** [your.email@example.com](mailto:salemmlayeh22@gmail.com)
+💼 **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/salem-amine-mlayeh/)
