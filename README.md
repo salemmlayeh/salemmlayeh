@@ -15,5 +15,5 @@ I'm interested in:
 
 I'm interested in building systems that combine **AI, robotics, embedded systems, computer vision, and intelligent control**.
 
-📫 **Email:** [your.email@example.com](mailto:salemmlayeh22@gmail.com)
-💼 **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/salem-amine-mlayeh/)
+📫 **Email:** [salemmlayeh22@gmail.com](mailto:salemmlayeh22@gmail.com)
+💼 **LinkedIn:** [Salem Amine Mlayeh](https://www.linkedin.com/in/salem-amine-mlayeh/)
