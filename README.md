@@ -4,14 +4,13 @@
 
 I'm interested in:
 
-* 🤖 Robotics
-* ⚙️ Embedded Systems
-* 🏭 Industrial Automation
-* 🎛️ Control Systems
+🤖 Robotics & Autonomous Systems
+🧠 Machine Learning & AI
+💻 Embedded Systems
+🎛️ Control Systems
+🛠️ Technologies
 
-### 🛠️ Technologies
-
-**C/C++ · Python · MATLAB/Simulink · STM32 · ROS 2 · PLC · TIA Portal · Linux · Git**
+Python · C/C++ · MATLAB/Simulink · STM32 · ROS 2 · OpenCV · scikit-learn · PyTorch · TensorFlow · Git · Linux · TIA Portal
 
 I'm currently working on projects related to **robotics, embedded systems, automation, and intelligent control**.
 
