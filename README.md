@@ -11,7 +11,7 @@ I'm interested in:
 
 ### 🛠️ Technologies
 
-**Python · C/C++ · MATLAB/Simulink · STM32 · ROS 2 · OpenCV · scikit-learn · PyTorch · TensorFlow · Git · Linux · TIA Portal**
+**Python · C/C++ · MATLAB/Simulink · STM32 · FreeRTOS · ROS 2 · OpenCV · scikit-learn · PyTorch · TensorFlow · Git · Linux · TIA Portal**
 
 I'm interested in building systems that combine **AI, robotics, embedded systems, computer vision, and intelligent control**.
 
